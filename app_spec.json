@@ -1,0 +1,1 @@
+{"name": "59-you-are-to-build-my-stock-watc-firebase-001738", "spec": {"port": 8000, "containers": [{"image": "", "name": "59-you-are-to-build-my-stock-watc-firebase-001738", "port": 8000, "registry_secret": "benchmarks-docker-credentials"}]}}
